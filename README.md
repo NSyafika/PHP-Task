@@ -3,7 +3,7 @@
 1. Enter path at the address bar: 
     http://localhost/index.php?keyword=sleep 
     
-    <ul>You can change the keyword into any GIF</ul>
+    -->You can change the keyword into any GIF.
 
 2. Click the Find button to find the requested GIF.
 
